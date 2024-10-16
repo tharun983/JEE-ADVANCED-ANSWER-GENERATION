@@ -1,12 +1,16 @@
-import ollama  # For generating answers using Ollama API
+import cohere
 
-# Function to generate answers using Ollama API
+# Initialize the Cohere client
+co = cohere.Client('8wgcLA8KR8GmgAHaM73oaE7I6mgx6lRuTVdqWKkN')  # Replace with your actual API key
+
 def generate_answer(question_text):
-    response = ollama.chat(
-        model="llama2",  # You can specify other models available in Ollama
-        messages=[{"role": "user", "content": f"Provide the correct answer and explanation for the following question: {question_text}"}]
+    response = co.generate(
+        model='command-r-plus',  # Specify the model to use
+        prompt=f"Answer the following question:\n\n{question_text}\n\nAnswer:",
+        max_tokens=100,  # Adjust the number of tokens based on your needs
+        temperature=0.7,  # Control the creativity of the response
+        stop_sequences=["\n"]  # Stop generating at a new line
     )
     
-    # Extract the answer from the response
-    answer = response['message'].strip()
+    answer = response.generations[0].text.strip()
     return answer

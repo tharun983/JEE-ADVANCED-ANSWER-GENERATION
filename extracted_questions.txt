@@ -1,0 +1,2695 @@
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+1/10 
+ 
+ 
+ 
+SECTION 1 (Maximum Marks: 12) 
+• 
+This section contains FOUR (04) questions. 
+• 
+Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct 
+answer. 
+• 
+For each question, choose the option corresponding to the correct answer. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks           :  +3 If ONLY the correct option is chosen; 
+      Zero Marks 
+:    0 If none of the options is chosen (i.e. the question is unanswered); 
+      Negative Marks  :  −1   In all other cases. 
+ 
+ 
+Q.1 
+ Let 
+( )
+f x be a continuously differentiable function on the interval (0,
+)
+such that 
+(1)
+2
+f
+=
+ and 
+10
+10
+9
+9
+( )
+( )
+lim
+1
+t
+x
+t
+f x
+x f t
+t
+x
+→
+−
+=
+−
+ 
+for each 
+0.
+x 
+ Then, for all 
+0,
+x 
+ 
+( )
+f x  is equal to 
+ 
+   (A) 
+10
+31
+9
+11
+11 x
+x −
+ 
+(B) 
+10
+9
+13
+11
+11 x
+x +
+ 
+   (C) 
+10
+9
+31
+11
+11 x
+x
+−
++
+ 
+(D) 
+10
+13
+9
+11
+11 x
+x +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.2 
+ A student appears for a quiz consisting of only true-false type questions and answers all the questions.  
+The student knows the answers of some questions and guesses the answers for the remaining 
+questions.  Whenever the student knows the answer of a question, he gives the correct answer.  
+Assume that the probability of the student giving the correct answer for a question, given that he has 
+guessed it, is 1 .
+2
+Also assume that the probability of the answer for a question being guessed, given 
+that the student’s answer is correct, is 1 .
+6
+ Then the probability that the student knows the answer of 
+a randomly chosen question is 
+ 
+    (A)  1
+12
+ 
+(B)  1
+7
+ 
+(C)  5
+7
+ 
+(D)  5
+12
+ 
+ 
+ 
+Mathematics
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+2/10 
+Q.3 
+ Let 2
+x
+
+
+
+
+ be such that 
+5
+cot
+.
+11
+x
+−
+=
+ Then 
+(
+)
+(
+)
+11
+11
+sin
+sin 6
+cos6
+cos
+sin 6
+cos6
+2
+2
+x
+x
+x
+x
+x
+x
+
+
+
+
+−
++
++
+
+
+
+
+
+
+
+
+ 
+is equal to 
+ 
+(A) 11 1
+2 3
+−
+ 
+(B) 11 1
+2 3
++
+ 
+ (C) 11 1
+3 2
++
+ 
+(D) 11 1
+3 2
+−
+ 
+ 
+ 
+ 
+ 
+Q.4 
+ 
+Consider the ellipse 
+2
+2
+1.
+9
+4
+x
+y
++
+=
+ Let ( , )
+S p q be a point in the first quadrant such that 
+2
+2
+1.
+9
+4
+p
+q
++
+
+ Two tangents are drawn from S to the ellipse, of which one meets the ellipse at one 
+end point of the minor axis and the other meets the ellipse at a point T  in the fourth quadrant. Let 
+R be the vertex of the ellipse with positive x -coordinate and Obe the center of the ellipse. If the 
+area of the triangle ORT
+
+is 3 ,
+2
+ then which of the following options is correct?  
+ 
+(A) 
+2, 
+3 3
+q
+p
+=
+=
+ 
+(B) 
+2, 
+4 3
+q
+p
+=
+=
+ 
+(C) 
+1, 
+5 3
+q
+p
+=
+=
+ 
+(D) 
+1, 
+6 3
+q
+p
+=
+=
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+3/10 
+ 
+ SECTION 2 (Maximum Marks: 12) 
+ 
+• 
+This section contains THREE (03) questions.  
+• 
+Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four 
+option(s) is(are) correct answer(s). 
+• 
+For each question, choose the option(s) corresponding to (all) the correct answer(s). 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +4 ONLY if (all) the correct option(s) is(are) chosen; 
+Partial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; 
+Partial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of 
+which are correct; 
+Partial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a 
+correct option; 
+Zero Marks 
+:      0 If none of the options is chosen (i.e. the question is unanswered); 
+Negative Marks :   −2 In all other cases. 
+• 
+For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct 
+answers, then  
+choosing ONLY (A), (B) and (D) will get +4 marks;  
+choosing ONLY (A) and (B) will get +2 marks;  
+choosing ONLY (A) and (D) will get +2 marks; 
+choosing ONLY (B) and (D) will get +2 marks; 
+choosing ONLY (A) will get +1 mark; 
+choosing ONLY (B) will get +1 mark; 
+choosing ONLY (D) will get +1 mark;  
+choosing no option (i.e. the question is unanswered) will get 0 marks; and  
+       choosing any other combination of options will get −2 marks. 
+ 
+ 
+Q.5 
+ Let 
+
+
+2 : ,
+,
+S
+a
+b
+a b
+=
++
+
+ 
+(
+)
+
+
+1
+1
+2
+ : 
+n
+T
+n
+=
+−+
+
+,  and 
+(
+)
+
+
+2
+1
+2
+ : 
+.
+n
+T
+n
+=
++
+
+     
+Then which of the following statements is (are) TRUE? 
+ 
+(A) 
+1
+2
+T
+T
+S
+
+ 
+(B) 
+1
+1
+0, 2024
+T
+
+
+=
+
+
+
+
+, where  denotes the empty set. 
+(C) 
+(
+)
+2
+2024,
+T
+
+
+ 
+(D) For any given  ,
+,
+a b
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+cos
+2
+sin
+2
+a
+b
+i
+a
+b
+
+
++
++
++
+
+ if and only if 
+0,
+b =
+ 
+       where 
+1
+i =
+−.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+4/10 
+Q.6 
+ Let 
+2 denote 
+.
+
+ Let 
+
+
+
+
+2
+2
+2
+( , , ) : , ,
+ and 
+2
+0 for all ( , )
+(0,0)
+.
+S
+a b c
+a b c
+ax
+bxy
+cy
+x y
+=
+
++
++
+
+
+−
+ 
+Then which of the following statements is (are) TRUE? 
+(A) 
+7
+2,
+,6
+2
+S
+
+
+
+
+
+
+ 
+(B)  If  
+1
+3, ,
+,
+12
+b
+S
+
+
+
+
+
+
+ then | 2 |
+b < 1. 
+(C)  For any given (
+)
+, ,
+,
+a b c
+S
+
+ the system of linear equations  
+1  
+1
+ax
+by
+bx
+cy
++
+=
++
+= −
+ 
+        has a unique solution. 
+(D) For any given (
+)
+, ,
+,
+a b c
+S
+
+ the system of linear equations  
+(
+1)
+0  
+(
+1)
+0
+a
+x
+by
+bx
+c
+y
++
++
+=
++
++
+=
+ 
+        has a unique solution. 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.7 
+ Let 
+3  denote the three-dimensional space. Take two points 
+(1,2,3)
+P =
+ and 
+(4,2,7).
+Q =
+ Let 
+(
+, )
+dist X Y  denote the distance between two points X and Y in 
+3. Let  
+(
+)
+(
+)
+
+
+2
+2
+3 :  
+(
+, )
+(
+,
+)
+50
+S
+X
+dist X P
+dist X Q
+=
+
+−
+=
+ and 
+(
+)
+(
+)
+
+
+2
+2
+3 :  
+( ,
+)
+( , )
+50 .
+T
+Y
+dist Y Q
+dist Y P
+=
+
+−
+=
+ 
+Then which of the following statements is (are) TRUE?  
+ 
+    (A) There is a triangle whose area is 1 and all of whose vertices are from .
+S  
+    (B) There are two distinct points L  and M  in T such that each point on the line segment 
+          LM is also in .
+T  
+    (C) There are infinitely many rectangles of perimeter 48, two of whose vertices are from S and  
+           the other two vertices are from .
+T  
+    (D) There is a square of perimeter 48, two of whose vertices are from S and the other two vertices are  
+           from .
+T
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+5/10 
+ 
+ 
+Q.8 
+ Let 
+3 2
+a =
+and 
+1/6
+1
+5
+6
+b =
+.  If ,x y 
+ are such that 
+ 
+                                     
+(
+)
+5
+4
+3
+2
+log
+18
+a
+x
+y
++
+=
+           and       
+                                    
+(
+)
+2
+log
+1080 ,
+b
+x
+y
+−
+=
+ 
+then 4
+5
+x
+y
++
+ is equal to  ________. 
+ 
+ 
+ 
+Q.9 
+ Let 
+4
+3
+2
+( )
+f x
+x
+ax
+bx
+c
+=
++
++
++
+ be a polynomial with real coefficients such that
+(1)
+9.
+f
+= −
+ Suppose 
+that 
+3
+i
+ is a root of the equation 
+3
+2
+4
+3
+2
+0,
+x
+ax
+bx
++
++
+=
+ where 
+1
+i =
+−. If 
+1
+2
+3
+4
+,
+,
+, and 
+
+are 
+all the roots of the equation 
+( )
+0,
+f x =
+ then 
+2
+2
+2
+2
+1
+2
+3
+4
+
+
+
+
++
++
++
+is equal to ______.  
+ 
+ 
+ 
+Q.10 
+ 
+Let 𝑆= {𝐴= (
+0
+1
+𝑐
+1
+𝑎
+𝑑
+1
+𝑏
+𝑒
+) ∶  𝑎, 𝑏, 𝑐, 𝑑, 𝑒∈{0, 1} and |𝐴| ∈ {−1, 1}}, where |𝐴| denotes the 
+determinant of  𝐴. Then the number of elements in 𝑆 is _______. 
+ 
+ 
+ 
+Q.11 
+ A group of 9students, 
+1
+2
+9
+,
+,
+,
+,
+s s
+s
+ is to be divided to form three teams 
+, , and 
+X Y
+Z  of sizes 
+2,3, and 4, respectively. Suppose that 
+1s  cannot be selected for the team 
+,
+X  and 
+2s  cannot be 
+selected for the team .
+Y  Then the number of ways to form such teams, is _______.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION 3 (Maximum Marks: 24) 
+ 
+• 
+This section contains SIX (06) questions. 
+• 
+The answer to each question is a NON-NEGATIVE INTEGER. 
+• 
+For each question, enter the correct integer corresponding to the answer using the mouse and the on-
+screen virtual numeric keypad in the place designated to enter the answer. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +4 If ONLY the correct integer is entered; 
+Zero Marks 
+:     0   In all other cases.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+6/10 
+Q.12 
+ Let 
+1
+1
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+, 
+OP
+i
+j
+k OQ
+i
+j
+k
+
+
+
+
+−
+−
+=
++
++
+= +
++
+ and  
+1 ˆ
+ˆ
+ˆ
+2
+OR
+i
+j
+k
+= +
++
+ be three vectors, where 
+
+,
+0
+
+−
+ and O denotes the origin.  If (
+)
+0
+OP OQ
+OR
+
+
+=
+and the point ( ,
+,2)
+
+ lies on 
+the plane 3
+3
+0,
+x
+y
+z
+l
++
+−
++ =
+then the value of l  is ________. 
+ 
+ 
+Q.13 
+ Let X be a random variable, and let 
+(
+)
+P X
+x
+=
+ denote the probability that X  takes the value .x
+Suppose that the points (
+)
+, (
+)
+x P X
+x
+=
+, 
+0,1,2,3,4,
+x =
+lie on a fixed straight line in the xy -plane, 
+and 
+(
+)
+0
+P X
+x
+=
+=
+for all 
+
+
+0,1,2,3,4 .
+x
+−
+ If the mean of X is 5
+2
+, and the variance of X is 
+,
+then the value of 24is ______.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+7/10 
+Q.14 
+ Let and  be the distinct roots of the equation 
+2
+1
+0.
+x
+x
++
+−=
+ Consider the set 
+
+
+1, ,
+.
+T
+
+=
+ 
+For a 3 3
+matrix 
+(
+)3 3 ,
+ij
+M
+a
+
+=
+ define 
+1
+2
+3
+i
+i
+i
+i
+R
+a
+a
+a
+=
++
++
+ and 
+1
+2
+3
+j
+j
+j
+j
+C
+a
+a
+a
+=
++
++
+ for 
+1,2,3
+i =
+and
+1,2,3.
+j =
+  
+ 
+Match each entry in List-I to the correct entry in List-II. 
+ 
+List-I 
+              List-II 
+(P)  The number of matrices 
+(
+)3 3
+ij
+M
+a
+
+=
+with  
+       all entries in T such that 
+0
+i
+j
+R
+C
+=
+=
+  
+       for all , ,
+i j  is  
+ 
+(1)     1 
+(Q) The number of symmetric matrices   
+      
+(
+)3 3
+ij
+M
+a
+
+=
+ with all entries in T such that  
+      
+0 for all  ,
+j
+C
+j
+=
+ is 
+        
+(2)     12 
+(R)  Let 
+(
+)3 3
+ij
+M
+a
+
+=
+ be a skew symmetric    
+       matrix such that 
+ij
+a
+T
+
+for i
+j
+
+. Then  
+       the number of elements in the set  
+      
+12
+23
+ :  , ,
+, 
+0
+x
+x
+a
+y
+x y z
+M
+y
+z
+z
+a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+ is   
+         
+(3)     infinite 
+(S) Let 
+(
+)3 3
+ij
+M
+a
+
+=
+ be a matrix with all  
+      entries in T such that 
+0 for
+iR =
+all .i  
+      Then the absolute value of the determinant  
+      of M  is  
+(4)     6 
+ 
+(5)     0 
+The correct option is 
+    (A)   (P)
+(4)     (Q)
+(2)     (R)
+(5)    (S)
+(1)
+→
+→
+→
+→
+ 
+    (B)   (P)
+(2)     (Q)
+(4)     (R)
+(1)     (S)
+(5)
+→
+→
+→
+→
+ 
+    (C)   (P)
+(2)     (Q)
+(4)     (R)
+(3)     (S)
+(5)
+→
+→
+→
+→
+ 
+    (D)   (P)
+(1)      (Q)
+(5)     (R)
+(3)     (S)
+(4)
+→
+→
+→
+→
+ 
+ 
+SECTION 4 (Maximum Marks: 12) 
+ 
+• 
+This section contains FOUR (04) Matching List Sets. 
+• 
+Each set has ONE Multiple Choice Question. 
+• 
+Each set has TWO lists: List-I and List-II. 
+• 
+List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). 
+• 
+FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of 
+these four options satisfies the condition asked in the Multiple Choice Question. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +3 ONLY if the option corresponding to the correct combination is chosen; 
+Zero Marks 
+:     0   If none of the options is chosen (i.e. the question is unanswered);  
+Negative Marks :   −1  In all other cases.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+8/10 
+ 
+ 
+Q.15 
+ Let the straight line 
+2
+y
+x
+=
+ touch a circle with center (0,
+),  > 0,
+
+
+ and radius r  at a point 
+1.
+A   
+Let 
+1B be the point on the circle such that the line segment 
+1
+1
+A B is a diameter of the circle.  Let 
+5
+5.
+r
++
+=
++
+  
+ 
+Match each entry in  List-I to the correct entry in  List-II. 
+ 
+List-I 
+List-II 
+(P)   equals 
+(1)  ( 2,4)
+−
+ 
+(Q) r   equals 
+(2) 5  
+(R) 
+1A   equals 
+(3) ( 2,6)
+−
+ 
+(S) 
+1B   equals 
+(4) 5 
+ 
+(5) (2,4)  
+ 
+The correct option is 
+ 
+(A) (P)
+(4)     (Q)
+(2)     (R)
+(1)     (S)
+(3)
+→
+→
+→
+→
+ 
+(B) (P)
+(2)     (Q)
+(4)     (R)
+(1)     (S)
+(3)
+→
+→
+→
+→
+ 
+(C) (P)
+(4)     (Q)
+(2)     (R)
+(5)     (S)
+(3)
+→
+→
+→
+→
+ 
+(D) (P)
+(2)     (Q)
+(4)     (R)
+(3)     (S)
+(5)
+→
+→
+→
+→
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+9/10 
+Q.16 
+ Let 
+be such that the lines 
+1
+11
+21
+29
+:
+1
+2
+3
+x
+y
+z
+L
++
++
++
+=
+=
+ and 
+2
+16
+11
+4
+:
+3
+2
+x
+y
+z
+L
+
++
++
++
+=
+=
+ 
+intersect. Let 
+1R  be the point of intersection of 
+1L  and 
+2.
+L  Let 
+(0,0,0),
+O =
+ and ˆn  denote a unit 
+normal vector to the plane containing both the lines 
+1L and 
+2.
+L   
+ 
+Match each entry in  List-I to the correct entry in  List-II. 
+ 
+ 
+List-I 
+  List-II 
+(P) equals 
+(1) 
+ˆ
+ˆ
+ˆ
+i
+j
+k
+−−
++
+ 
+(Q) A possible choice for ˆn is 
+(2) 
+3
+2
+ 
+(R) 
+1
+OR  equals 
+(3) 1 
+(S) A possible value of 
+1 ˆ
+OR n
+
+ is 
+(4) 1
+2
+1 ˆ
+ˆ
+ˆ
+6
+6
+6
+i
+j
+k
+−
++
+ 
+ 
+(5) 
+2
+3
+ 
+ 
+ 
+The correct option is 
+                
+(A) (P)
+(3)     (Q)
+(4)     (R)
+(1)     (S)
+(2)
+→
+→
+→
+→
+ 
+(B) (P)
+(5)     (Q)
+(4)     (R)
+(1)     (S)
+(2)
+→
+→
+→
+→
+ 
+(C) (P)
+(3)     (Q)
+(4)     (R)
+(1)     (S)
+(5)
+→
+→
+→
+→
+ 
+(D) (P)
+(3)     (Q)
+(1)     (R)
+(4)     (S)
+(5)
+→
+→
+→
+→
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+10/10 
+ 
+Q.17 
+ Let 
+:
+f
+→
+ and 
+:
+g
+→
+be functions defined by  
+1
+|
+| sin
+,    
+0, 
+( )
+0,                       
+0,
+x x
+x
+f x
+x
+x
+
+
+
+
+
+
+
+=
+
+
+
+
+=
+
+    and   
+1
+1 2 ,  0
+ , 
+( )
+2
+0,         otherwise .
+x
+x
+g x
+−
+
+
+
+= 
+
+ 
+Let , , ,
+.
+a b c d 
+ Define the function :
+h
+→
+ by 
+(
+)
+ 
+1
+( )
+ ( )
+( )
+( )
+( ), 
+.
+2
+h x
+a f x
+b g x
+g
+x
+c x
+g x
+d g x
+x
+
+
+
+
+=
++
++
+−
++
+−
++
+
+
+
+
+
+
+
+
+
+ 
+Match each entry in  List-I to the correct entry in  List-II. 
+ 
+List-I 
+List-II 
+(P) If 
+0, 
+1, 
+0, and  
+0,
+a
+b
+c
+d
+=
+=
+=
+=
+ then 
+(1) h is one-one. 
+(Q) If 
+1, 
+0, 
+0, and  
+0,
+a
+b
+c
+d
+=
+=
+=
+=
+ then 
+(2) h is onto. 
+(R) If 
+0, 
+0, 
+1, and  
+0,
+a
+b
+c
+d
+=
+=
+=
+=
+ then 
+(3) h is differentiable on 
+.  
+(S) If 
+0, 
+0, 
+0, and  
+1,
+a
+b
+c
+d
+=
+=
+=
+=
+ then 
+(4) the range of h is 
+
+0,1 . 
+ 
+(5) the range of h is 
+
+0,1 . 
+ 
+The correct option is 
+ 
+(A) (P)
+(4)     (Q)
+(3)     (R)
+(1)     (S)
+(2)
+→
+→
+→
+→
+ 
+(B) (P)
+(5)     (Q)
+(2)     (R)
+(4)     (S)
+(3)
+→
+→
+→
+→
+ 
+(C) (P)
+(5)     (Q)
+(3)     (R)
+(2)     (S)
+(4)
+→
+→
+→
+→
+ 
+(D) (P)
+(4)     (Q)
+(2)     (R)
+(1)     (S)
+(3)
+→
+→
+→
+→
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+END OF THE QUESTION PAPER
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+1/8 
+ 
+ 
+ 
+SECTION 1 (Maximum Marks: 12) 
+• 
+This section contains FOUR (04) questions. 
+• 
+Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct 
+answer. 
+• 
+For each question, choose the option corresponding to the correct answer. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks           :  +3 If ONLY the correct option is chosen; 
+      Zero Marks 
+:    0 If none of the options is chosen (i.e. the question is unanswered); 
+      Negative Marks  :  −1   In all other cases. 
+ 
+ 
+Q.1 
+ A dimensionless quantity is constructed in terms of electronic charge 𝑒, permittivity of free space 
+𝜀0, Planck’s  constant ℎ, and speed of light 𝑐. If the dimensionless quantity is written as 𝑒𝛼𝜀0𝛽ℎ𝛾𝑐𝛿 
+and 𝑛 is a non-zero integer, then (𝛼, 𝛽, 𝛾, 𝛿) is given by 
+(A) (2𝑛, −𝑛, −𝑛, −𝑛) 
+(B) (𝑛, −𝑛, −2𝑛, −𝑛) 
+(C) (𝑛, −𝑛, −𝑛, −2𝑛) 
+(D) (2𝑛, −𝑛, −2𝑛, −2𝑛) 
+ 
+ 
+ 
+ 
+Q.2 
+ An infinitely long wire, located on the 𝑧-axis, carries a current 𝐼 along the +𝑧-direction and 
+produces the magnetic field 𝐵⃗ . The magnitude of the line integral ∫𝐵⃗ ⋅𝑑𝑙
+⃗⃗⃗  along a straight line from 
+the point (−√3𝑎, 𝑎, 0)  to (𝑎, 𝑎, 0) is given by 
+ 
+[𝜇0 is the magnetic permeability of free space.] 
+(A) 7𝜇0𝐼/24 
+(B) 7𝜇0𝐼/12 
+ 
+(C)  𝜇0𝐼/8 
+(D)  𝜇0𝐼/6 
+ 
+ 
+ 
+Q.3 
+ Two beads, each with charge 𝑞 and mass 𝑚, are on a horizontal, frictionless, non-conducting, 
+circular hoop of radius 𝑅. One of the beads is glued to the hoop at some point, while the other one 
+performs small oscillations about its equilibrium position along the hoop. The square of the angular 
+frequency of the small oscillations is given by  
+ 
+[𝜀0 is the permittivity of free space.] 
+ 
+(A) 𝑞2/(4𝜋𝜀0𝑅3𝑚) 
+ 
+(B) 𝑞2/(32𝜋𝜀0𝑅3𝑚) 
+ 
+(C)  𝑞2/(8𝜋𝜀0𝑅3𝑚) 
+ 
+(D)  𝑞2/(16𝜋𝜀0𝑅3𝑚) 
+ 
+ 
+Q.4 
+ A block of mass 5 kg moves along the x-direction subject to the force 𝐹= (−20𝑥+ 10) N, with 
+the value of 𝑥 in metre. At time 𝑡= 0 s, it is at rest at position 𝑥= 1 m. The position and 
+momentum of the block at 𝑡= (𝜋/4) s are 
+(A) −0.5 m, 5 kg m/s 
+(B) 0.5 m, 0 kg m/s 
+(C) 0.5 m, −5 kg m/s 
+(D) −1 m, 5 kg m/s 
+ 
+ 
+ 
+ 
+Physics
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+2/8 
+ 
+ 
+ 
+ SECTION 2 (Maximum Marks: 12) 
+ 
+• 
+This section contains THREE (03) questions.  
+• 
+Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) 
+is(are) correct answer(s). 
+• 
+For each question, choose the option(s) corresponding to (all) the correct answer(s). 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +4 ONLY if (all) the correct option(s) is(are) chosen; 
+Partial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; 
+Partial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of 
+which are correct; 
+Partial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a 
+correct option; 
+Zero Marks 
+:      0 If none of the options is chosen (i.e. the question is unanswered); 
+Negative Marks :   −2 In all other cases. 
+• 
+For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct 
+answers, then  
+choosing ONLY (A), (B) and (D) will get +4 marks;  
+choosing ONLY (A) and (B) will get +2 marks;  
+choosing ONLY (A) and (D) will get +2 marks; 
+choosing ONLY (B) and (D) will get +2 marks; 
+choosing ONLY (A) will get +1 mark; 
+choosing ONLY (B) will get +1 mark; 
+choosing ONLY (D) will get +1 mark;  
+choosing no option (i.e. the question is unanswered) will get 0 marks; and  
+       choosing any other combination of options will get −2 marks. 
+ 
+ 
+ 
+ 
+Q.5 
+ A particle of mass 𝑚 is moving in a circular orbit under the influence of the central force  
+𝐹(𝑟) = −𝑘𝑟, corresponding to the potential energy 𝑉(𝑟) = 𝑘𝑟2/2, where 𝑘 is a positive force 
+constant and 𝑟 is the radial distance from the origin. According to the Bohr’s quantization rule, the 
+angular momentum of the particle is given by 𝐿= 𝑛ℏ, where ℏ= ℎ/(2𝜋), ℎ is the Planck’s 
+constant, and 𝑛 a positive integer. If 𝑣 and 𝐸 are the speed and total energy of the particle, 
+respectively, then which of the following expression(s) is(are) correct? 
+ 
+(A) 𝑟2 = 𝑛ℏ√1
+𝑚𝑘 
+(B) 𝑣2 = 𝑛ℏ√𝑘
+𝑚3 
+(C) 
+𝐿
+𝑚𝑟2 = √𝑘
+𝑚 
+(D) 𝐸=
+𝑛ℏ
+2 √𝑘
+𝑚
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+3/8 
+Q.6 
+ Two uniform strings of mass per unit length 𝜇 and 4𝜇, and length 𝐿 and 2𝐿, respectively, are joined 
+at point O, and tied at two fixed ends P and Q, as shown in the figure. The strings are under a 
+uniform tension 𝑇. If we define the frequency 𝜈0 =
+1
+2𝐿√
+𝑇
+𝜇 , which of the following statement(s) 
+is(are) correct? 
+ 
+ 
+ 
+(A) With a node at O, the minimum frequency of vibration of the composite string is 𝜈0. 
+(B) With an antinode at O, the minimum frequency of vibration of the composite string is 2𝜈0. 
+(C) When the composite string vibrates at the minimum frequency with a node at O, it has 6 nodes, 
+including the end nodes. 
+(D) No vibrational mode with an antinode at O is possible for the composite string. 
+ 
+ 
+ 
+ 
+ 
+Q.7 
+ A glass beaker has a solid, plano-convex base of refractive index 1.60, as shown in the figure. The 
+radius of curvature of the convex surface (SPU) is 9 cm, while the planar surface (STU) acts as a 
+mirror. This beaker is filled with a liquid of refractive index 𝑛 up to the level QPR. If the image of 
+a point object O at a height of ℎ (OT in the figure) is formed onto itself, then, which of the 
+following option(s) is(are) correct?  
+ 
+ 
+ 
+(A) For 𝑛 =  1.42, ℎ= 50 cm. 
+(B) For 𝑛 =  1.35, ℎ =  36 cm. 
+(C) For 𝑛 =  1.45, ℎ= 65 cm. 
+(D) For 𝑛 =  1.48, ℎ = 85 cm.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+4/8 
+ 
+ 
+ 
+Q.8 
+ The specific heat capacity of a substance is temperature dependent and is given by the formula 
+𝐶 =  𝑘𝑇, where 𝑘 is a constant of suitable dimensions in SI units, and 𝑇 is the absolute 
+temperature. If the heat required to raise the temperature of 1 kg of the substance from −73 °C to 
+27 °C is 𝑛𝑘, the value of 𝑛 is _____. 
+ 
+ [Given: 0 K = −273 °C.] 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.9 
+ A disc of mass 𝑀 and radius 𝑅 is free to rotate about its vertical axis as shown in the figure. A 
+battery operated motor of negligible mass is fixed to this disc at a point on its circumference. 
+Another disc of the same mass 𝑀 and radius 𝑅/2 is fixed to the motor’s thin shaft. Initially, both 
+the discs are at rest. The motor is switched on so that the smaller disc rotates at a uniform angular 
+speed 𝜔. If the angular speed at which the large disc rotates is 𝜔/𝑛, then the value of 𝑛 is _____. 
+ 
+ 
+ 
+ 
+ 
+Q.10 
+ A point source S emits unpolarized light uniformly in all directions.  At two points A and B, the 
+ratio 𝑟= 𝐼𝐴/𝐼𝐵 of the intensities of light is 2. If a set of two polaroids having 45° angle between 
+their pass-axes is placed just before point B, then the new value of 𝑟 will be _____. 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION 3 (Maximum Marks: 24) 
+ 
+• 
+This section contains SIX (06) questions. 
+• 
+The answer to each question is a NON-NEGATIVE INTEGER. 
+• 
+For each question, enter the correct integer corresponding to the answer using the mouse and the on-
+screen virtual numeric keypad in the place designated to enter the answer. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +4 If ONLY the correct integer is entered; 
+Zero Marks 
+:     0   In all other cases.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+5/8 
+ 
+ 
+Q.11 
+ A source (S) of sound has frequency 240 Hz. When the observer (O) and the source move towards 
+each other at a speed 𝑣 with respect to the ground (as shown in Case 1 in the figure), the observer 
+measures the frequency of the sound to be 288 Hz. However, when the observer and the source 
+move away from each other at the same speed 𝑣 with respect to the ground (as shown in Case 2 in 
+the figure), the observer measures the frequency of sound to be 𝑛 Hz. The value of 𝑛 is _____. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.12 
+ Two large, identical water tanks, 1 and 2, kept on the top of a building of height 𝐻, are filled with 
+water up to height ℎ in each tank.  Both the tanks contain an identical hole of small radius on their 
+sides, close to their bottom. A pipe of the same internal radius as that of the hole is connected to 
+tank 2, and the pipe ends at the ground level. When the water flows from the tanks 1 and 2 through 
+the holes, the times taken to empty the tanks are 𝑡1 and 𝑡2, respectively. If 𝐻= (
+16
+9 ) ℎ, then the 
+ratio 𝑡1/𝑡2 is _____. 
+ 
+ 
+ 
+ 
+Q.13 
+ A thin uniform rod of length 𝐿 and certain mass is kept on a frictionless horizontal table with a 
+massless string of length 𝐿 fixed to one end (top view is shown in the figure). The other end of the 
+string is pivoted to a point O. If a horizontal impulse 𝑃 is imparted to the rod at a distance 𝑥= 𝐿/𝑛 
+from the mid-point of the rod (see figure), then the rod and string revolve together around the point 
+O, with the rod remaining aligned with the string. In such a case, the value of 𝑛 is _____.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+6/8 
+ 
+ 
+Q.14 
+ One mole of a monatomic ideal gas undergoes the cyclic process J→ K→ L→ M→ J, as shown in 
+the P-T diagram. 
+ 
+ 
+ 
+Match the quantities mentioned in List-I with their values in List-II and choose the correct option. 
+ 
+ [ℛ is the gas constant.] 
+ 
+List-I 
+List-II 
+(P) Work done in the complete cyclic process 
+(1) ℛ𝑇0 −4ℛ𝑇0 ln 2 
+(Q) Change in the internal energy of the gas in the 
+process JK 
+(2) 0 
+(R) Heat given to the gas in the process KL 
+(3) 3ℛ𝑇0 
+(S) Change in the internal energy of the gas in the 
+process MJ 
+(4) −2ℛ𝑇0 ln 2 
+ 
+(5) −3ℛ𝑇0 ln 2 
+ 
+(A) P → 1; Q → 3; R → 5; S → 4 
+(B) P → 4; Q → 3; R → 5; S → 2 
+(C) P → 4; Q → 1; R → 2; S → 2 
+(D) P → 2; Q → 5; R → 3; S → 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION 4 (Maximum Marks: 12) 
+ 
+• 
+This section contains FOUR (04) Matching List Sets. 
+• 
+Each set has ONE Multiple Choice Question. 
+• 
+Each set has TWO lists: List-I and List-II. 
+• 
+List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). 
+• 
+FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of 
+these four options satisfies the condition asked in the Multiple Choice Question. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +3 ONLY if the option corresponding to the correct combination is chosen; 
+Zero Marks 
+:     0   If none of the options is chosen (i.e. the question is unanswered);  
+Negative Marks :   −1  In all other cases.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+7/8 
+Q.15 
+ Four identical thin, square metal sheets, 𝑆1, 𝑆2, 𝑆3 and 𝑆4, each of side 𝑎 are kept parallel to each 
+other with equal distance 𝑑 (≪𝑎) between them, as shown in the figure. Let 𝐶0 = 𝜀0𝑎2/𝑑, where 
+𝜀0 is the permittivity of free space.  
+ 
+Match the quantities mentioned in List-I with their values in List-II and choose the correct option. 
+ 
+List-I 
+List-II 
+(P) The capacitance between 𝑆1 and 𝑆4, with 
+𝑆2 and 𝑆3 not connected, is 
+(1) 3𝐶0 
+(Q) The capacitance between 𝑆1 and 𝑆4, with 
+𝑆2 shorted to 𝑆3, is 
+(2) 𝐶0/2 
+(R) The capacitance between 𝑆1 and 𝑆3, with 
+𝑆2 shorted to 𝑆4, is 
+(3) 𝐶0/3 
+(S) The capacitance between 𝑆1  and 𝑆2, with 
+𝑆3 shorted to 𝑆1, and 𝑆2 shorted to 𝑆4, is 
+(4) 2𝐶0/3 
+ 
+(5) 2𝐶0 
+ 
+(A) P → 3; Q → 2; R → 4; S → 5 
+(B) P → 2; Q → 3; R → 2; S → 1 
+(C) P → 3; Q → 2; R → 4; S → 1 
+(D) P → 3; Q → 2; R → 2; S → 5 
+ 
+ 
+Q.16 
+ A light ray is incident on the surface of a sphere of refractive index 𝑛 at an angle of incidence 𝜃0. 
+The ray partially refracts into the sphere with angle of refraction 𝜙0 and then partly reflects from 
+the back surface. The reflected ray then emerges out of the sphere after a partial refraction. The 
+total angle of deviation of the emergent ray with respect to the incident ray is 𝛼. Match the 
+quantities mentioned in List-I with their values in List-II and choose the correct option. 
+ 
+List-I 
+List-II 
+(P) If 𝑛= 2 and 𝛼= 180°, then all the 
+possible values of 𝜃0 will be 
+(1) 30° and 0° 
+(Q) If 𝑛= √3 and 𝛼= 180°, then all the 
+possible values of 𝜃0 will be 
+(2) 60° and 0° 
+(R) If 𝑛= √3 and 𝛼= 180°, then all the 
+possible values of 𝜙0 will be 
+(3) 45° and 0° 
+(S) If 𝑛= √2 and 𝜃0 = 45°, then all the 
+possible values of 𝛼 will be 
+(4) 150° 
+ 
+(5) 0° 
+ 
+(A) P → 5; Q → 2; R→ 1; S→ 4 
+(B) P → 5; Q → 1; R→ 2; S→ 4 
+(C) P → 3; Q → 2; R→ 1; S→ 4 
+(D) P → 3; Q → 1; R→ 2; S→ 5
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+8/8 
+ 
+ 
+ 
+ 
+Q.17 
+ The circuit shown in the figure contains an inductor 𝐿, a capacitor 𝐶0, a resistor 𝑅0 and an 
+ideal battery. The circuit also contains two keys K1 and K2.  Initially, both the keys are 
+open and there is no charge on the capacitor. At an instant, key K1 is closed and 
+immediately after this the current in 𝑅0 is found to be 𝐼1. After a long time, the current 
+attains a steady state value 𝐼2. Thereafter, K2 is closed and simultaneously K1 is opened and 
+the voltage across 𝐶0 oscillates with amplitude 𝑉0 and angular frequency 𝜔0. 
+ 
+ 
+Match the quantities mentioned in List-I with their values in List-II and choose the correct option. 
+ 
+List-I 
+List-II 
+(P) The value of 𝐼1 in Ampere is 
+(1) 0 
+(Q) The value of 𝐼2 in Ampere is 
+(2) 2 
+(R) The value of 𝜔0 in kilo-radians/s is 
+(3) 4 
+(S) The value of 𝑉0 in Volt is 
+(4) 20 
+ 
+(5) 200 
+ 
+(A) P → 1; Q → 3; R → 2; S → 5 
+(B) P → 1; Q → 2; R → 3; S → 5 
+(C) P → 1; Q → 3; R → 2; S → 4 
+(D) P → 2; Q → 5; R → 3; S → 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+END OF THE QUESTION PAPER
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+1/12 
+ 
+ 
+SECTION 1 (Maximum Marks: 12) 
+• 
+This section contains FOUR (04) questions. 
+• 
+Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct 
+answer. 
+• 
+For each question, choose the option corresponding to the correct answer. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks           :  +3 If ONLY the correct option is chosen; 
+      Zero Marks 
+:    0 If none of the options is chosen (i.e. the question is unanswered); 
+      Negative Marks  :  −1   In all other cases. 
+ 
+ 
+Q.1 
+ A closed vessel contains 10 g of an ideal gas X at 300 K, which exerts 2 atm pressure. At the same 
+temperature, 80 g of another ideal gas Y is added to it and the pressure becomes 6 atm. The ratio of 
+root mean square velocities of X and Y at 300 K is 
+ 
+(A)    2√2 ∶√3 
+(B)    2√2 ∶1 
+ 
+(C)    1 ∶2 
+(D)    2 ∶1 
+ 
+ 
+ 
+Q.2 
+ At room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid 
+(HNO2) gives the species 
+(A)   H3O+, NO3− and NO 
+(B)   H3O+, NO3− and NO2 
+(C)   H3O+, NO− and NO2 
+(D)   H3O+, NO3− and N2O 
+ 
+ 
+ 
+ 
+Chemistry
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+2/12 
+Q.3 
+ Aspartame, an artificial sweetener, is a dipeptide aspartyl phenylalanine methyl ester. The structure 
+of aspartame is 
+ 
+                             Structures of phenylalanine and aspartic acid are given below. 
+ 
+ 
+(A)  
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+ 
+ 
+ 
+Q.4 
+ Among the following options, select the option in which each complex in Set-I shows geometrical 
+isomerism and the two complexes in Set-II are ionization isomers of each other. 
+[en = H2NCH2CH2NH2] 
+ 
+(A)   Set-I: [Ni(CO)4] and [PdCl2(PPh3)2] 
+        Set-II: [Co(NH3)5Cl]SO4 and [Co(NH3)5(SO4)]Cl 
+ 
+(B)   Set-I: [Co(en)(NH3)2Cl2] and [PdCl2(PPh3)2] 
+        Set-II: [Co(NH3)6][Cr(CN)6] and [Cr(NH3)6][Co(CN)6] 
+ 
+(C)   Set-I: [Co(NH3)3(NO2)3] and [Co(en)2Cl2] 
+        Set-II: [Co(NH3)5Cl]SO4 and [Co(NH3)5(SO4)]Cl 
+ 
+(D)   Set-I: [Cr(NH3)5Cl]Cl2 and [Co(en)(NH3)2Cl2] 
+        Set-II: [Cr(H2O)6]Cl3 and [Cr(H2O)5Cl]Cl2∙H2O
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+3/12 
+ 
+ SECTION 2 (Maximum Marks: 12) 
+ 
+• 
+This section contains THREE (03) questions.  
+• 
+Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) 
+is(are) correct answer(s). 
+• 
+For each question, choose the option(s) corresponding to (all) the correct answer(s). 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +4 ONLY if (all) the correct option(s) is(are) chosen; 
+Partial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; 
+Partial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of 
+which are correct; 
+Partial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a 
+correct option; 
+Zero Marks 
+:      0 If none of the options is chosen (i.e. the question is unanswered); 
+Negative Marks :   −2 In all other cases. 
+• 
+For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct 
+answers, then  
+choosing ONLY (A), (B) and (D) will get +4 marks;  
+choosing ONLY (A) and (B) will get +2 marks;  
+choosing ONLY (A) and (D) will get +2 marks; 
+choosing ONLY (B) and (D) will get +2 marks; 
+choosing ONLY (A) will get +1 mark; 
+choosing ONLY (B) will get +1 mark; 
+choosing ONLY (D) will get +1 mark;  
+choosing no option (i.e. the question is unanswered) will get 0 marks; and  
+       choosing any other combination of options will get −2 marks. 
+ 
+ 
+ 
+ 
+Q.5 
+ Among the following, the correct statement(s) for electrons in an atom is(are) 
+(A)    Uncertainty principle rules out the existence of definite paths for electrons. 
+(B)    The energy of an electron in 2s orbital of an atom is lower than the energy of an electron that     
+          is infinitely far away from the nucleus. 
+(C)    According to Bohr’s model, the most negative energy value for an electron is given by n = 1,  
+         which corresponds to the most stable orbit. 
+(D)   According to Bohr’s model, the magnitude of velocity of electrons increases with increase in      
+         values of n.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+4/12 
+Q.6 
+ Reaction of iso-propylbenzene with O2 followed by the treatment with H3O+ forms phenol and a 
+by-product P. Reaction of P with 3 equivalents of Cl2 gives compound Q. Treatment of Q with 
+Ca(OH)2 produces compound R and calcium salt S. 
+The correct statement(s) regarding P, Q, R and S is(are) 
+(A)   Reaction of P with R in the presence of KOH followed by acidification gives 
+     
+ 
+(B)   Reaction of R with O2 in the presence of light gives phosgene gas 
+(C)   Q reacts with aqueous NaOH to produce Cl3CCH2OH and Cl3CCOONa 
+(D)   S on heating gives P 
+ 
+ 
+ 
+ 
+ 
+Q.7 
+ The option(s) in which at least three molecules follow Octet Rule is(are) 
+(A)    CO2, C2H4, NO and HCl 
+(B)    NO2, O3, HCl and H2SO4 
+(C)    BCl3, NO, NO2 and H2SO4 
+(D)    CO2, BCl3, O3 and C2H4
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+5/12 
+ 
+ 
+ 
+ 
+Q.8 
+ Consider the following volume−temperature (V−T) diagram for the expansion of 5 moles of an 
+ideal monoatomic gas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Considering only P-V work is involved, the total change in enthalpy (in Joule) for the 
+transformation of state in the sequence X→Y→Z is ______. 
+ 
+[Use the given data: Molar heat capacity of the gas for the given temperature range, CV, m = 12 J K−1 
+mol−1 and gas constant, R = 8.3 J K−1 mol−1] 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION 3 (Maximum Marks: 24) 
+ 
+• 
+This section contains SIX (06) questions. 
+• 
+The answer to each question is a NON-NEGATIVE INTEGER. 
+• 
+For each question, enter the correct integer corresponding to the answer using the mouse and the on-
+screen virtual numeric keypad in the place designated to enter the answer. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +4 If ONLY the correct integer is entered; 
+Zero Marks 
+:     0   In all other cases.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+6/12 
+Q.9 
+ Consider the following reaction, 
+ 
+( )
+( )
+( )
+( )
+2
+2
+2
+2H
+g  + 2NO g  
+N
+g  + 2H
+g
+ 
+O
+→
+ 
+ 
+which follows the mechanism given below: 
+ 
+( )
+( )
+(
+)
+1
+1
+2
+2
+2NO g   
+ N O
+g                                           fast equlibrium
+k
+k−
+ 
+                    
+( )
+( )
+( )
+( )
+(
+)
+2
+2
+2
+2
+2
+2
+N O
+g  + H
+g   
+  N O g  + H O g           slow reaction
+k
+→
+ 
+( )
+( )
+( )
+( )
+(
+)
+3
+2
+2
+2
+2
+N O g  + H
+g   
+ N
+g  + H O g                fast reaction
+k
+→
+ 
+ 
+ 
+The order of the reaction is ______. 
+ 
+ 
+ 
+ 
+ 
+Q.10 
+ Complete reaction of acetaldehyde with excess formaldehyde, upon heating with conc. NaOH 
+solution, gives P and Q. Compound P does not give Tollens’ test, whereas Q on acidification gives 
+positive Tollens’ test. Treatment of P with excess cyclohexanone in the presence of catalytic 
+amount of p-toluenesulfonic acid (PTSA) gives product R. 
+Sum of the number of methylene groups (-CH2-) and oxygen atoms in R is ______. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.11 
+ Among V(CO)6, Cr(CO)5, Cu(CO)3, Mn(CO)5, Fe(CO)5, [Co(CO)3]3−, [Cr(CO)4]4−, and Ir(CO)3, 
+the total number of species isoelectronic with  Ni(CO)4 is ______. 
+ 
+[Given, atomic number: V = 23, Cr = 24, Mn = 25, Fe = 26, Co = 27, Ni = 28, Cu = 29, Ir = 77]
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+7/12 
+Q.12 
+ In the following reaction sequence, the major product P is formed.  
+ 
+Glycerol reacts completely with excess P in the presence of an acid catalyst to form Q. Reaction of 
+Q with excess NaOH followed by the treatment with CaCl2 yields Ca-soap R, quantitatively. 
+Starting with one mole of Q, the amount of R produced in gram is ______. 
+ 
+[Given, atomic weight: H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35, Ca = 40] 
+ 
+ 
+ 
+ 
+Q.13 
+ Among the following complexes, the total number of diamagnetic species is ______. 
+ 
+[Mn(NH3)6]3+, [MnCl6]3−, [FeF6]3−, [CoF6]3−, [Fe(NH3)6]3+, and [Co(en)3]3+  
+ 
+[Given, atomic number: Mn = 25, Fe = 26, Co = 27;  
+ en = H2NCH2CH2NH2]
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+8/12 
+ 
+ 
+ 
+ 
+ 
+SECTION 4 (Maximum Marks: 12) 
+ 
+• 
+This section contains FOUR (04) Matching List Sets. 
+• 
+Each set has ONE Multiple Choice Question. 
+• 
+Each set has TWO lists: List-I and List-II. 
+• 
+List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). 
+• 
+FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of 
+these four options satisfies the condition asked in the Multiple Choice Question. 
+• 
+Answer to each question will be evaluated according to the following marking scheme: 
+Full Marks 
+:  +3 ONLY if the option corresponding to the correct combination is chosen; 
+Zero Marks 
+:     0   If none of the options is chosen (i.e. the question is unanswered);  
+Negative Marks :   −1  In all other cases.
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+9/12 
+Q.14 
+ In a conductometric titration, small volume of titrant of higher concentration is added stepwise to a 
+larger volume of titrate of much lower concentration, and the conductance is measured after each 
+addition. 
+The limiting ionic conductivity (Λ0) values (in mS m2 mol−1) for different ions in aqueous solutions 
+are given below: 
+ 
+Ions Ag+ 
+K+ 
+Na+ 
+H+ 
+NO3
+− 
+Cl− 
+SO4
+2− OH− 
+CH3COO− 
+Λ0 
+6.2 
+7.4 
+5.0 
+35.0 
+7.2 
+7.6 
+16.0 
+19.9 
+4.1 
+ 
+For different combinations of titrates and titrants given in List-I, the graphs of ‘conductance’ 
+versus ‘volume of titrant’ are given in List-II.  
+Match each entry in List-I with the appropriate entry in List-II and choose the correct option. 
+ 
+        List-I 
+ 
+List-II 
+ 
+(P) Titrate: KCl 
+      Titrant: AgNO3 
+(1) 
+(Q) Titrate: AgNO3 
+      Titrant: KCl 
+(2) 
+(R) Titrate: NaOH 
+      Titrant: HCl 
+(3) 
+(S) Titrate: NaOH 
+      Titrant: CH3COOH 
+(4) 
+ 
+(5) 
+ 
+(A) P-4, Q-3, R-2, S-5 
+(B) P-2, Q-4, R-3, S-1 
+(C) P-3, Q-4, R-2, S-5 
+(D) P-4, Q-3, R-2, S-1
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+10/12 
+ 
+Q.15 
+ Based on VSEPR model, match the xenon compounds given in List-I with the corresponding 
+geometries and the number of lone pairs on xenon given in List-II and choose the correct option. 
+ 
+List-I 
+List-II 
+(P) XeF2 
+(1) Trigonal bipyramidal and two lone pair of electrons 
+(Q) XeF4 
+(2) Tetrahedral and one lone pair of electrons 
+(R) XeO3 
+(3) Octahedral and two lone pair of electrons 
+(S) XeO3F2 
+(4) Trigonal bipyramidal and no lone pair of electrons 
+ 
+(5) Trigonal bipyramidal and three lone pair of electrons 
+ 
+(A)    P-5, Q-2, R-3, S-1 
+(B)    P-5, Q-3, R-2, S-4 
+(C)    P-4, Q-3, R-2, S-1 
+(D)    P-4, Q-2, R-5, S-3
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+11/12 
+Q.16 
+ List-I contains various reaction sequences and List-II contains the possible products. Match each 
+entry in List-I with the appropriate entry in List-II and choose the correct option. 
+ 
+                           List-I 
+List-II 
+(P)  
+ 
+ 
+(1) 
+ 
+(Q) 
+ 
+ 
+(2) 
+ 
+(R)  
+ 
+(3) 
+ 
+(S) 
+ 
+(4) 
+ 
+  
+  
+(5) 
+ 
+ 
+(A)    P-3, Q-5, R-4, S-1 
+(B)    P-3, Q-2, R-4, S-1 
+(C)    P-3, Q-5, R-1, S-4 
+(D)    P-5, Q-2, R-4, S-1
+JEE (Advanced) 2024 
+ 
+                               Paper 1 
+ 
+12/12 
+Q.17 
+ List-I contains various reaction sequences and List-II contains different phenolic compounds. 
+Match each entry in List-I with the appropriate entry in List-II and choose the correct option. 
+ 
+                             List-I 
+ 
+List-II 
+(P)  
+ 
+(1) 
+ 
+(Q) 
+ 
+(2)  
+ 
+(R) 
+ 
+(3)  
+ 
+(S) 
+ 
+(4) 
+ 
+ 
+(5)  
+ 
+ 
+ 
+(A)   P-2, Q-3, R-4, S-5 
+(B)   P-2, Q-3, R-5, S-1 
+(C)   P-3, Q-5, R-4, S-1 
+(D)   P-3, Q-2, R-5, S-4 
+ 
+ 
+ 
+ 
+END OF THE QUESTION PAPER
