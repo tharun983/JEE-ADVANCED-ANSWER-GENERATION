@@ -1,7 +1,7 @@
 import cohere
 
 # Initialize the Cohere client
-cohere_client = cohere.Client('8wgcLA8KR8GmgAHaM73oaE7I6mgx6lRuTVdqWKkN')  # Replace with your actual Cohere API key
+cohere_client = cohere.Client('API KEY')  # Replace with your actual Cohere API key
 
 def generate_answer(question_text):
     try:
